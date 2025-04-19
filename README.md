@@ -69,7 +69,9 @@ Este análisis está dirigido a los anfitriones de Airbnb que buscan optimizar s
 
 ## Conclusión
 Este proyecto ha permitido obtener una visión más clara y detallada del mercado de alquileres temporales de Airbnb en Nueva York, a través de un análisis exhaustivo de datos y la creación de un dashboard interactivo. Al limpiar y estructurar los datos, se logró identificar patrones clave que influyen en los precios, la demanda y las características más atractivas de los alojamientos.
+
 El análisis reveló información valiosa sobre los distritos de la ciudad, permitiendo a los anfitriones y potenciales inversores tomar decisiones más informadas sobre dónde y cómo establecer su oferta. Además, las visualizaciones dinámicas facilitaron la comprensión de las tendencias de mercado, lo que optimiza la estrategia de precios y la selección de características para atraer a los huéspedes.
+
 En resumen, este proyecto no solo mostró el potencial de los datos de Airbnb para comprender el comportamiento del mercado, sino que también subrayó la importancia de transformar los datos crudos en herramientas de análisis prácticas y efectivas.
 
 ---
